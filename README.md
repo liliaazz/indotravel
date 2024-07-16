@@ -18,7 +18,7 @@ Welcome to IndoTravel, your go-to destination for exploring the breathtaking bea
 
 ## Getting Started
 
-To explore IndoTravel website, simply visit [https://www.indotravel.com](https://www.indotravel.com) and start your journey to Indonesia's wonders.
+To explore IndoTravel website, simply visit [[https://www.indotravel.com](https://indotravel-agency.vercel.app/)]([https://www.indotravel.com](https://indotravel-agency.vercel.app/)) and start your journey to Indonesia's wonders.
 
 ## Technologies Used
 
